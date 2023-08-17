@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="your-profile-image-url-here" alt="Your Name">
 </p>
 
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Space Panda 🐼🚀!</h1>
 
 <p align="center">
   Welcome to my GitHub profile. I'm a [Your Profession/Passion] based in [Your Location].
