@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
 <p align="center">
   <img src="your-profile-image-url-here" alt="Your Name">
-</p>
+</p> -->
 
 <h1 align="center">👋 Hello, I'm Space Panda 🐼🚀!</h1>
 
@@ -34,10 +36,11 @@ Here are some ideas to get you started:
 ![Language](https://img.shields.io/badge/[Language]-[Skill Level]-[Color]?style=flat-square&logo=[Language]&logoColor=white)
 ![Language](https://img.shields.io/badge/[Language]-[Skill Level]-[Color]?style=flat-square&logo=[Language]&logoColor=white)
 
+<!--
 ### 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)
-
+-->
 ### 🎉 Let's Connect:
 
 [![Twitter](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
