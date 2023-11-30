@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Your Email/Website/Social Media Links]
 - ⚡ Fun fact: [Interesting Fun Fact About You]
 
+<!--
 ### 🚀 Languages and Tools:
 
 ![Language](https://img.shields.io/badge/[Language]-[Skill Level]-[Color]?style=flat-square&logo=[Language]&logoColor=white)
 ![Language](https://img.shields.io/badge/[Language]-[Skill Level]-[Color]?style=flat-square&logo=[Language]&logoColor=white)
 
-<!--
 ### 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)
--->
 ### 🎉 Let's Connect:
 
 [![Twitter](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInHandle]-blue)](https://www.linkedin.com/in/[YourLinkedInHandle]/)
 
+-->
 ---
 
 <p align="center">
