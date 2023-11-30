@@ -23,12 +23,13 @@ Here are some ideas to get you started:
   Welcome to my GitHub profile. I'm a [Your Profession/Passion] based in [Your Location].
 </p>
 
-- 🔭 I’m currently working on [Current Project/Interest]
-- 🌱 I’m currently learning [Current Tech Stack/Topic]
-- 👯 I’m looking to collaborate on [Open Source Project/Interest]
-- 💬 Ask me about [Your Expertise/Interest]
-- 📫 How to reach me: [Your Email/Website/Social Media Links]
-- ⚡ Fun fact: [Interesting Fun Fact About You]
+- 🔭 I’m currently working on teaching students the fun of Programming
+- 🌱 I’m currently learning how to conquer the world
+- 👯 I’m looking to collaborate on cool projects
+- 🤔 I’m looking for help with world domination
+- 💬 Ask me about world domination
+- 📫 How to reach me: I will
+- ⚡ Fun fact: I like space!
 
 <!--
 ### 🚀 Languages and Tools:
